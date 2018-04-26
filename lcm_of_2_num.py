@@ -22,7 +22,7 @@ for l in range(2, xy):
             n = i
 
 if(is_not):
-    print "\nlcm of " + str(x) + " and " + str(y) + " is " + str(xy)
+    print "\nLCM of " + str(x) + " and " + str(y) + " is " + str(xy)
 else:
-    print "\nlcm of " + str(x) + " and " + str(y) + " is " + str(n)
+    print "\nLCM of " + str(x) + " and " + str(y) + " is " + str(n)
     
