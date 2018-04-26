@@ -20,10 +20,8 @@ is_not_exist = True
 
 for x in r: 
      if (x != 0):
-         # print m/x
          if(m%x==0):
              y = m/x
-             # print y
              if(b ==(x + y)):
                  is_not_exist = False
                  print "(" + str(x) + ", " + str(y) + ")"
