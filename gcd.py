@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/python
 
 # GCD of 60 and 36 is 12 
 
